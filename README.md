@@ -1,2 +1,2 @@
-# ECE 220 (fa22) repo for NetID: aryans5
+# ECE-220-Coursework
 MP (Machine Problems) from ECE 220: Computer Systems & Programming @ UIUC FA'22
